@@ -1,12 +1,12 @@
  Blender 3D Projects
 
-A collection of my **3D modeling projects created using Blender** as I learn and improve my modeling, materials, lighting, camera setup, and rendering skills.
+ A collection of my **3D modeling projects created using Blender** as I learn and improve my modeling, materials, lighting, camera    setup, and rendering skills.
 
  Projects
 
 1. Cardbox
 
-A 3D cardbox model created as one of my early Blender modeling projects.
+ A 3D cardbox model created as one of my early Blender modeling projects.
 
 Practiced:
 
@@ -19,9 +19,9 @@ Practiced:
 
 2. Coca-Cola Can
 
-A 3D model of a Coca-Cola can created in Blender to practice modeling a cylindrical object and applying materials and textures.
+ A 3D model of a Coca-Cola can created in Blender to practice modeling a cylindrical object and applying materials and textures.
 
-Practiced:
+**Practiced:**
 
 * Cylindrical modeling
 * Object shaping
@@ -30,10 +30,8 @@ Practiced:
 * Camera positioning
 * Rendering
 
-Software
-
+**Software**
 Blender
 
-About
-
+**About**
 This repository documents my progress in **3D modeling and design**. I will continue adding new Blender projects as I learn new techniques and improve my skills.
