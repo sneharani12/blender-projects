@@ -1,28 +1,39 @@
- Cardbox  Blender 3D Project
+ Blender 3D Projects
 
-A 3D cardbox model created using Blender as part of my journey into 3D modeling and design.
+A collection of my **3D modeling projects created using Blender** as I learn and improve my modeling, materials, lighting, camera setup, and rendering skills.
 
+ Projects
 
+1. Cardbox
 
-Project Details
+A 3D cardbox model created as one of my early Blender modeling projects.
 
-Software: Blender
-Project: Cardbox 3D Model
-File: `cardbox.blend`
-Render: `render.png`
+Practiced:
 
-What I Practiced
+* 3D modeling
+* Object transformation
+* Materials
+* Camera setup
+* Lighting
+* Rendering
 
-3D modeling
-Object transformation
-Basic materials
-Camera setup
-Lighting
-Rendering
+2. Coca-Cola Can
 
-Project Files
+A 3D model of a Coca-Cola can created in Blender to practice modeling a cylindrical object and applying materials and textures.
 
-`cardbox.blend` — Blender project file
-`render.png` — Final rendered image
+Practiced:
 
-This is one of my early Blender projects, and I plan to continue adding more projects as I learn and improve.
+* Cylindrical modeling
+* Object shaping
+* Materials and textures
+* Lighting
+* Camera positioning
+* Rendering
+
+Software
+
+Blender
+
+About
+
+This repository documents my progress in **3D modeling and design**. I will continue adding new Blender projects as I learn new techniques and improve my skills.
