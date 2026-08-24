@@ -30,6 +30,18 @@ Practiced:
 * Camera positioning
 * Rendering
 
+3. perfume
+ **Practiced:**
+
+* Cylindrical modeling
+* Object shaping
+* Glass BSDF
+* Materials and textures
+* Lighting
+* Camera positioning
+* Rendering
+
+
 **Software**
 Blender
 
