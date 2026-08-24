@@ -37,9 +37,11 @@ Practiced:
 * Object shaping
 * Glass BSDF
 * Materials and textures
+* Glass-like transparency and reflections
 * Lighting
 * Camera positioning
 * Rendering
+  
 
 
 **Software**
